@@ -6,7 +6,7 @@
 
 body {
     background-color: #000000;
-    background-image: url(backgroundRedBinary.webp);
+    background-image: url(/src/backgroundRedBinary.webp);
     background-repeat: no-repeat;
     float: right;
     margin-left: 25%;
